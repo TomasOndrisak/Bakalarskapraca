@@ -1,0 +1,92 @@
+﻿<div class="Hodina-status">
+
+     @if (Rozvrh.ToList().Count() == 0) // ak sa v liste nenachadza ziadna polozka element povoli handleDrop ak nie tak nie
+        {
+        <ul class="dropzone @dropClass"
+        ondragover="event.preventDefault();"
+        ondragstart="event.dataTransfer.setData('', event.target.id);"
+         
+        
+        
+         @ondrop="HandleDrop"
+        @ondragenter="HandleDragEnter"
+        @ondragleave="HandleDragLeave">
+
+      
+        @foreach (var hodina in Rozvrh)
+        {
+                <Hodina HodinaModel="hodina" />
+        }
+        
+
+    </ul>
+           
+
+        } else{
+    <ul class="dropzone @dropClass"
+        ondragover="event.preventDefault();"
+        ondragstart="event.dataTransfer.setData('', event.target.id);"
+         
+        
+        
+         
+        @ondragenter="HandleDragEnter"
+        @ondragleave="HandleDragLeave">
+
+      
+        @foreach (var hodina in Rozvrh)
+        {
+            
+                <Hodina HodinaModel="hodina" />
+           
+        }
+        
+
+    </ul>}
+</div>
+
+@code {
+
+    [CascadingParameter] HodinaContainer Container { get; set; }
+    [Parameter] public HodinaStatuses ListStatus { get; set; }
+
+
+    List<HodinaModel> Rozvrh = new List<HodinaModel>();
+    string dropClass = "";
+
+    protected override void OnParametersSet()
+    {
+        Rozvrh.Clear();
+        Rozvrh.AddRange(Container.Hodiny.Where(x => x.Status == ListStatus));
+
+    }
+
+    private void HandleDragEnter()
+    {
+        if (ListStatus == Container.Payload.Status) return;
+
+        if (Rozvrh.ToList().Count() == 1)
+        {
+        dropClass = "no-drop";
+
+
+        }
+        else
+        {
+            dropClass = "can-drop";
+        }
+    }
+
+    private void HandleDragLeave()
+    {
+        dropClass = "";
+    }
+
+    private async Task HandleDrop()
+    {
+        dropClass = "";
+        await Container.UpdateJobAsync(ListStatus);
+    }
+}
+
+

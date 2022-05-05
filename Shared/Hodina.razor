@@ -1,0 +1,13 @@
+﻿<li class="draggable" draggable="true" title="@HodinaModel.NazovHodiny" @ondragstart="@(() => HandleDragStart(HodinaModel))">
+    <b class="NazovHodiny">@HodinaModel.NazovHodiny</b>
+</li>
+
+@code {
+    [CascadingParameter] HodinaContainer Container { get; set; }
+    [Parameter] public HodinaModel HodinaModel { get; set; }
+
+    private void HandleDragStart(HodinaModel selectedJob)
+    {
+        Container.Payload = selectedJob;
+    }
+}

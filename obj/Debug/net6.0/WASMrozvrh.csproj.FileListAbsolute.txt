@@ -1,0 +1,1629 @@
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.pdb
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.pdb.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\WASMrozvrh.staticwebassets.runtime.json
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\WASMrozvrh.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\WASMrozvrh.pdb
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.CSharp.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.AppContext.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Buffers.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Collections.Concurrent.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Collections.Specialized.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Collections.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Configuration.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Console.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Core.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Data.Common.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Data.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Process.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Drawing.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Drawing.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Globalization.Calendars.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Globalization.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Globalization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.Pipes.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.IO.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Linq.Expressions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Linq.Parallel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Linq.Queryable.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Linq.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Memory.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Http.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.HttpListener.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Mail.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.NameResolution.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Ping.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Quic.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Requests.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Security.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.ServicePoint.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.Sockets.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.WebClient.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.WebProxy.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.WebSockets.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Net.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Numerics.Vectors.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Numerics.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ObjectModel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Private.Uri.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Private.Xml.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Emit.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Reflection.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Resources.Reader.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Resources.Writer.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Handles.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Loader.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Numerics.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Runtime.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.AccessControl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Claims.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.Principal.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.SecureString.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Security.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ServiceModel.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ServiceProcess.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Text.Encoding.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Overlapped.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Thread.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.Timer.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Threading.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Transactions.Local.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Transactions.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.ValueTuple.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Web.HttpUtility.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Web.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Windows.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.Linq.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.Serialization.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.XDocument.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.XPath.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Xml.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\WindowsBase.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\mscorlib.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\netstandard.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\System.Private.CoreLib.dll
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\dotnet.js
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\dotnet.timezones.blat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\dotnet.wasm
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\icudt.dat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\icudt_CJK.dat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\icudt_EFIGS.dat
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.AssemblyInfo.cs
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\LDjQ2jGf.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\stuzzxQy.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\v34aSDlv.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\myNLwfNo.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\1WIVgDHd.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\XxsGQevk.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\1yMLrq8N.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\0gK7ih0x.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\BEYP6PUc.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\RUUEpB4p.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\dgjNPxBT.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+MTVjDOl.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\0z+nn2+B.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\oL+UUXwx.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\5xdU+N1Y.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+1V71IIT.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\fli1BETA.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\pWeUGitM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\cpQM0Udk.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\3YnuZbzb.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Ovf8I26f.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\CoHC8OUx.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\gVd2EnRE.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\P9JWAaNL.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\2YAX+qHF.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\6CoPDmN7.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\blazor.boot.json
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\scopedcss\bundle\WASMrozvrh.styles.css
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\scopedcss\projectbundle\WASMrozvrh.bundle.scp.css
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.csproj.CopyComplete
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.dll
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\ref\WASMrozvrh.dll
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.pdb
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.2.o8c49pcv4f.js
+C:\Users\tomas\source\repos\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.2.o8c49pcv4f.js.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\k+mugkjH.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\6zXonTfI.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Hn7MbYSH.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\gAkkHWIC.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\tdWUA4AY.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+pxT+vBG.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\7EUtE++8.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+M5YHA0W.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\7dA9cib3.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\mPpvH5xG.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\uUMTScqL.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\DNFjuW9s.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\lTcicIq5.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\do8aKwYQ.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\vDw+0cVX.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\p02FIuAz.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\yYz41kP7.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\RNsPiMDb.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\i1OxSbRL.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\DD3zYMTj.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\bGdaFPFj.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\m0hQ701K.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\v97k3WEO.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+r+IjTVv.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\EIHlzOGP.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\DKWlZDCS.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\zSR9xcSE.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\WuFLaG+6.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\EHNXis+x.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\JND6GCHg.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\1rhibySg.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\pEamCx6Z.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\CKNAy+op.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\tiO2u7bp.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\YgLA6pR9.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\fn3kwRPW.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\U+RkpO3s.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\lZE4MLHt.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\1N1P5JcI.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\589vwLA3.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\QDvgUepC.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\fxYC7Jug.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\eGihjcd4.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\PJ4sqdVY.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\KG9g3mmi.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Iw0kNjnW.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\m6zR4Idv.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\2rqYqkOc.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Z34i+Qgx.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\bavXe2Gu.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Yxz1uQ+b.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\G+F965JS.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\EY4vEUiq.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Suu0Amie.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\S6qoWt3q.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\eWTcuXdt.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\EQvujZcS.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\lq2Z7xaW.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\jH3Y97nf.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\BJ43W2pt.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\RcElYPdI.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\u12jauTs.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\u4lf++z1.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ArCdb0hG.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\6rxOSQ2c.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\StpIgAFi.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\iZAH1SLB.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\WYPn87qC.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\6smQCbAX.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\k7x5Qqid.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\n30g+DUP.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\c3watQCF.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\w1OM8psj.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\yWEanlym.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\o0AQXfIz.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\lGCNn8I1.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\m0ujEoyP.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\HEBIE1AV.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\wOr8QKwa.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\l1rumTIq.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\vbsssbdo.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\1p3P+qqN.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\0v08erBM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\b+Y7WZte.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Ue0x77jK.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\aUu4jO6r.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ACxfALgv.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Kh+PaHoN.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\S1vM0aUs.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ULGBSWqi.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\LzNbjAq0.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ATtbCnnd.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\PHsKnpof.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\bI2Mmwdp.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\aFZYZFci.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\NQxbCi+h.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\vffS3IZ3.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\h9cUWqW0.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\sXkiviNp.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\eGM7UUhC.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\mB9RgsoB.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\rnx2obEz.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\0z2baB+2.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+hK6Hs6M.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\EmNpWHLY.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\skzuncP6.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\q4l6kjRP.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\YQAl5Cym.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\vbeyb+GL.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\6qGXxmSM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\zf7jelBc.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\kys+8uV1.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\u+z0cT1D.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\o2uGm7qV.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Ds8huPhl.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\nk+VYvnT.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ZnS1iH1X.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ZpLYk9Qu.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\MznvO++v.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\or9HfXpp.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\gtkdxhs5.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\PDwqjYXf.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Wk6+BafE.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\2bo1aHgR.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\JLaYe98V.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\QjyU7mq+.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\K7Xgdghw.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\BxsXAQjV.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\IIxvRtXK.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ruG2HHoM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\mANdt6Gd.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\CQrwgRrK.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\S4E5UHsJ.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ZwkLMOho.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\2+bUxtQq.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\h3BVPf3j.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\QSH0fZjO.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ImVzaA1h.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\2SUCat3m.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\RCZSZ3Zk.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Yk4s28Y8.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+Z7l1rog.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ZDO8vRen.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\oy9oSxoW.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\CgrEVnah.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\2iVqTLxQ.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\9ecpp8D7.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\wX7ES4rs.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\fqtCpOcM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\gYJvauko.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\JLfqK5Ru.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\i2XRf9rx.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\T2a20lo8.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\romUtHzc.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\yCrlP1QZ.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\Y1WhQcyb.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\5N+jaJKi.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\sQUVCIEz.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\NH5wosuM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\NCr6wr32.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\GS+NK8h1.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\uZzRLDDU.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\+eGTbyAv.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\H+bzjRxX.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\dz3ZnEyQ.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\3soaHrMk.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\VX5sGanl.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\1IQvvsku.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\ir3uOLZC.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\gMNVOrOw.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\sz5EZ+mM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\dyGyABfM.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\build-gz\6T1qBTpI.gz
+C:\Users\tomas\source\repos\WASMrozvrh\obj\Debug\net6.0\refint\WASMrozvrh.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.pdb
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.dll.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\WASMrozvrh.pdb.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\WASMrozvrh.staticwebassets.runtime.json
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\WASMrozvrh.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\WASMrozvrh.pdb
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.CSharp.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.AppContext.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Buffers.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Collections.Concurrent.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Collections.Specialized.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Collections.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ComponentModel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Configuration.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Console.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Core.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Data.Common.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Data.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Process.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Drawing.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Drawing.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Globalization.Calendars.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Globalization.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Globalization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.Compression.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.FileSystem.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.Pipes.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.IO.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Linq.Expressions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Linq.Parallel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Linq.Queryable.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Linq.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Memory.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Http.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.HttpListener.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Mail.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.NameResolution.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Ping.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Quic.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Requests.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Security.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.ServicePoint.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.Sockets.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.WebClient.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.WebProxy.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.WebSockets.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Net.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Numerics.Vectors.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Numerics.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ObjectModel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Private.Uri.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Private.Xml.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Emit.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Reflection.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Resources.Reader.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Resources.Writer.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Handles.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Loader.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Numerics.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.Serialization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Runtime.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.AccessControl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Claims.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.Principal.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.SecureString.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Security.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ServiceModel.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ServiceProcess.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Text.Encoding.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Overlapped.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Tasks.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Thread.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.Timer.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Threading.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Transactions.Local.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Transactions.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.ValueTuple.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Web.HttpUtility.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Web.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Windows.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.Linq.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.Serialization.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.XDocument.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.XPath.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Xml.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\WindowsBase.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\mscorlib.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\netstandard.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\System.Private.CoreLib.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\dotnet.js
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\dotnet.timezones.blat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\dotnet.wasm
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\icudt.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\icudt_CJK.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\icudt_EFIGS.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.AssemblyInfo.cs
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\LDjQ2jGf.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\stuzzxQy.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\v34aSDlv.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\myNLwfNo.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\1WIVgDHd.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\XxsGQevk.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\1yMLrq8N.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\0gK7ih0x.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\BEYP6PUc.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\RUUEpB4p.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\dgjNPxBT.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\+MTVjDOl.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\0z+nn2+B.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\oL+UUXwx.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\5xdU+N1Y.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\+1V71IIT.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\fli1BETA.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\pWeUGitM.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\cpQM0Udk.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\3YnuZbzb.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Ovf8I26f.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\CoHC8OUx.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\gVd2EnRE.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\6CoPDmN7.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\blazor.boot.json
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\scopedcss\bundle\WASMrozvrh.styles.css
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\scopedcss\projectbundle\WASMrozvrh.bundle.scp.css
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.csproj.CopyComplete
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\refint\WASMrozvrh.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\WASMrozvrh.pdb
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\ref\WASMrozvrh.dll
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.3.s70gye3mgo.js
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.3.s70gye3mgo.js.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\g5SrqEH6.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\kK4kl+1W.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\fn+aEBT0.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\FllsVEvf.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\UH0TWArH.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\zX1ij+rb.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\excQKceN.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\olPQC0b2.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\m6X5lIvT.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\VXTLpzJd.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\1Hh9cYBc.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\JDFLQeOj.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\cZsFntbP.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\dZQtMUas.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\VV8EkvsR.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\W6BLGqnZ.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\O0RBFOyY.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\ps+CkHfb.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Wq0YrnHr.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\+LuWPVha.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\53+f4dnS.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\6sCvHNVs.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\6EWIctYb.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\i5VAI+bj.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\ITvcCOAd.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\qPesR3nj.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\OgodqEdg.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\MMUQQh+q.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\im1GBayS.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\q1kUs23t.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\x1bidHQ1.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\vVePagYi.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\0g7SvCWX.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\aY1PyPgm.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Bh205BPu.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\JGk1+rAh.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\BgKcd0wT.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\2+8SMGi3.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\08uRajxf.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\WPFaHG2N.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\S8L0Kbc0.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\XgQf4JZg.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\wfXzjB2p.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\TVxpAtlP.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\jeR+Kdh0.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\++BisxJz.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\GJINF3op.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\SVchKyWK.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\DQyooGtd.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\i39gX0Li.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\0gka3+P9.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\dj5vBMFQ.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\xwZyCmaV.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\+efrIm8Q.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Encg61L5.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\M3L4CC7U.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\gTiIkJw6.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\dgrBpvsU.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\P5zoULFh.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\ZQfdvfCi.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\UXUPQ92K.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\EXO72O0u.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\tF6JMJZK.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\a+4zn4dm.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\BSVZdRX6.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\MHJjfwsp.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\+fa5RY1J.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Y6ax6TuA.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\lc5mc1Ru.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\COdKQ7JR.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\gxEaki7+.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\z5Pj+z3x.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\7On+pNXD.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\tbl+wwsN.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\TkprUGKQ.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\eKUCf+iM.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\8f8LRDWl.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\xxgMeQNl.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\2VR9NjCk.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\jjfGVw8n.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\YLmODFqm.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\DfbmSf4g.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\cKvPqxYp.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\I+YEbwJa.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\UtWvx3FD.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\oQ7BcOlQ.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\zUzuZ+ok.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\1UpUE1lr.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\VibGOtJp.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\rsGRSn9c.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\bGeeiR0X.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Ct8ThrNo.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\nuSufkkv.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\H82ZqOmr.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\j6Xx3F9s.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\OluyVUjy.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Nusm0zeP.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\dLy4VxqQ.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\+TuSlBD7.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\0taD9s+y.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\uZEcttVF.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\sRypokz3.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\hTTcO9j3.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\tQlEY5Es.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\fB+00XzL.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\DQWnRrnF.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\sZ+QSeZR.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\WSUhmBXk.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Rc6rpskU.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\cnevfnTA.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\aCFviOoi.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\kwHQRhpx.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\vglMIpR9.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\wuzf25tf.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\2lG0wLTU.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\1ll3rbye.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\UL3rXREb.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\k7Bsl0LC.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\9jWc1Xj3.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\yI14nboK.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Q7G8VWeG.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Uh+X5Pv2.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\HWvtbwSI.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\imycey1+.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Qp90rRAC.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\oh51FTOn.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\psDJq3Zf.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\FBz0MLOl.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\b5r8C3LJ.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\fyLd4MLo.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\BzOVciUX.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\rseefRlC.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Y8yr0iqa.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\LqCO5Cfq.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Ko254H9a.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\H7aeepoW.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\OxMfRlD+.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\wxVzId6u.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\SiV2lTrj.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\+5V71pQB.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\mPxP173z.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Fmc3JNoz.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\rc6wNsJC.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\q8m+nP6V.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\l6EmgUs0.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\gBhkKMPl.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\N+xCraSY.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\xqV9D5Ma.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Yl+SlOcb.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\G+bmX2KP.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\AyWcJmpc.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\7WhWPSBa.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\cjvmTc2v.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\8LtjL4x0.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\zrwqLbJx.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\cGESBjvA.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\++tpt9jB.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\msa6Ky+A.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Kyv1N+4k.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\O5pLCX+z.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\9Qjq+voU.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\ortV+GpC.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\G+iULglO.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\3STzdb9X.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\qMhlheLP.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\Vbl7S10f.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\XKRzHeu9.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\qdG0vVF9.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\mjbsbVgE.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\izWYdVRH.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\1kKoCDEo.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\A5wastdU.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\B5DYXshR.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\j+9xSKxx.gz
+C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\obj\Debug\net6.0\build-gz\t443Zv1S.gz

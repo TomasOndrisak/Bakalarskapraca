@@ -1,0 +1,111 @@
+﻿@page "/"
+
+<div class="nazov">
+  <ul>
+                <li>Rozvrh hodín</li>
+                <li>Tomáš Ondrišák - 3.ročník - HI 1</li>
+                <li>Letný semester</li>
+
+    </ul>
+</div>
+
+<ul class="Hodiny">
+  <li>7:15 - 9:00</li>
+  <li>9:15 - 10:45</li>
+  <li>11:00 - 12:30</li>
+  <li>13:30 - 15:00</li>
+  <li>15:15 - 16:45</li>
+  <li>17:00 - 18:30</li>
+</ul>
+
+
+
+
+@code {
+    List<HodinaModel> Rozvrh = new List<HodinaModel>();
+    string lastUpdatedJob = "";
+
+    protected override void OnInitialized()
+    {
+        Rozvrh.Add(new HodinaModel { Id = 1, NazovHodiny = "Paralelné programovanie", Status = HodinaStatuses.P2});
+        Rozvrh.Add(new HodinaModel { Id = 2, NazovHodiny = "Tvorba aplikácií v jazyku Java", Status = HodinaStatuses.P3});
+        Rozvrh.Add(new HodinaModel { Id = 3, NazovHodiny = "Manažérske rozhodovanie a IT I", Status = HodinaStatuses.P4});
+        Rozvrh.Add(new HodinaModel { Id = 4, NazovHodiny = "Teória pravdepodobnosti", Status = HodinaStatuses.P5});
+        Rozvrh.Add(new HodinaModel { Id = 5, NazovHodiny = "Ekonomická teória 2", Status = HodinaStatuses.U2});
+        Rozvrh.Add(new HodinaModel { Id = 6, NazovHodiny = "Svetová ekonomika", Status = HodinaStatuses.Pi6});
+        Rozvrh.Add(new HodinaModel { Id = 6, NazovHodiny = "Operačný výskum", Status = HodinaStatuses.Stv3});
+     }
+
+
+   void HandleStatusUpdated(HodinaModel updatedJob)
+    {
+        lastUpdatedJob = updatedJob.NazovHodiny;
+    }
+}
+
+    <!--prva Hodina -->
+     
+     <HodinaContainer Hodiny="Rozvrh" OnStatusUpdated="HandleStatusUpdated">
+         
+   <HodinaList ListStatus="HodinaStatuses.P1" />
+   <HodinaList ListStatus="HodinaStatuses.U1"/>
+   <HodinaList ListStatus="HodinaStatuses.S1"/>
+   <HodinaList ListStatus="HodinaStatuses.Stv1"/>
+   <HodinaList ListStatus="HodinaStatuses.Pi1"/>
+   
+  
+   <!--prva Hodina -->
+   
+
+   <!--druha-->
+   
+   <HodinaList ListStatus="HodinaStatuses.P2"/>
+   <HodinaList ListStatus="HodinaStatuses.U2"/>
+   <HodinaList ListStatus="HodinaStatuses.S2"/>
+   <HodinaList ListStatus="HodinaStatuses.Stv2"/>
+   <HodinaList ListStatus="HodinaStatuses.Pi2"/>
+   
+  
+    
+   <!--druha-->
+  
+     <!--tretia-->
+     
+   <HodinaList ListStatus="HodinaStatuses.P3"/>
+   <HodinaList ListStatus="HodinaStatuses.U3"/>
+   <HodinaList ListStatus="HodinaStatuses.S3"/>
+   <HodinaList ListStatus="HodinaStatuses.Stv3"/>
+   <HodinaList ListStatus="HodinaStatuses.Pi3"/>
+   
+     <!--tretia-->
+     
+     <!--Stvrta-->
+   <HodinaList ListStatus="HodinaStatuses.P4"/>
+   <HodinaList ListStatus="HodinaStatuses.U4"/>
+   <HodinaList ListStatus="HodinaStatuses.S4"/>
+   <HodinaList ListStatus="HodinaStatuses.Stv4"/>
+   <HodinaList ListStatus="HodinaStatuses.Pi4"/> 
+     
+     <!--Stvrta-->
+     
+     
+     <!--piata-->
+         
+   <HodinaList ListStatus="HodinaStatuses.P5"/>
+   <HodinaList ListStatus="HodinaStatuses.U5"/>
+   <HodinaList ListStatus="HodinaStatuses.S5"/>
+   <HodinaList ListStatus="HodinaStatuses.Stv5"/>
+   <HodinaList ListStatus="HodinaStatuses.Pi5"/>  <!--piata-->
+
+  <!--siesta-->
+
+   <HodinaList ListStatus="HodinaStatuses.P6"/>
+   <HodinaList ListStatus="HodinaStatuses.U6"/>
+   <HodinaList ListStatus="HodinaStatuses.S6"/>
+   <HodinaList ListStatus="HodinaStatuses.Stv6"/>
+   <HodinaList ListStatus="HodinaStatuses.Pi6"/>   <!--siesta-->
+
+
+</HodinaContainer>
+     
+   

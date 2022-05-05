@@ -1,0 +1,24 @@
+﻿<div class="Hodina-container">
+    <CascadingValue Value="this">
+        @ChildContent
+    </CascadingValue>
+</div>
+
+@code {
+    [Parameter] public List<HodinaModel> Hodiny { get; set; }
+    [Parameter] public RenderFragment ChildContent { get; set; }
+    [Parameter] public EventCallback<HodinaModel> OnStatusUpdated { get; set; }
+
+    public HodinaModel Payload { get; set; }
+
+    public async Task UpdateJobAsync(HodinaStatuses newStatus)
+    {
+        var task = Hodiny.SingleOrDefault(x => x.Id == Payload.Id);
+
+        if (task != null)
+        {
+            task.Status = newStatus;
+            await OnStatusUpdated.InvokeAsync(Payload);
+        }
+    }
+}

@@ -1,0 +1,100 @@
+﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+    /* blazor */
+    /**/
+html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   
+}
+
+/* hlavicka */
+.nazov {
+    padding: 1px;
+    width: 100%;
+    background: #62347e;
+    text-align: center;
+}
+
+        .nazov ul li {
+            color: white;
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            list-style-type: none;
+        }
+
+  
+
+.Hodiny {
+    
+    background-color: #ddd;
+    
+}
+
+    .Hodiny li {
+
+        display: inline-block;
+        width: 16%;
+        color: #666;
+        text-align: center;
+        
+    }
+
+    /* Rozlozenie */
+.Hodina-container {
+   
+    column-count: 6;
+
+    
+}
+/*bunky*/
+.draggable {
+    padding-block: 30px;
+    border: 4px solid #000000;
+    cursor: grab;
+    background: #6e10a0;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.dropzone {
+    
+    padding: 10px 10px; 
+    border: 3px dashed #75868a;
+    list-style: none;
+    width: 100%;
+    height: 120px;
+    
+}
+
+
+.no-drop {
+    border: 4px dashed red;
+}
+
+.can-drop {
+    border: 4px dashed green;
+}
+
