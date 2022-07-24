@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = WASMrozvrh
 build_property.RootNamespace = WASMrozvrh
-build_property.ProjectDir = C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh\
+build_property.ProjectDir = C:\Users\Tomas\OneDrive - Ekonomická univerzita v Bratislave\bakalarka\GitHub\Bakalarskapraca\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\tomas\Desktop\Nový priečinok\WASMrozvrh
+build_property.MSBuildProjectDirectory = C:\Users\Tomas\OneDrive - Ekonomická univerzita v Bratislave\bakalarka\GitHub\Bakalarskapraca
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/App.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/Pages/Index.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/Shared/Hodina.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/Shared/Hodina.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvZGluYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/Shared/HodinaContainer.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/Shared/HodinaContainer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvZGluYUNvbnRhaW5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/Shared/HodinaList.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/Shared/HodinaList.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvZGluYUxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/_Imports.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/Shared/MainLayout.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ymfpvu92ff
 
-[C:/Users/tomas/Desktop/Nový priečinok/WASMrozvrh/Shared/NavMenu.razor]
+[C:/Users/Tomas/OneDrive - Ekonomická univerzita v Bratislave/bakalarka/GitHub/Bakalarskapraca/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-iws0cm79hy

@@ -10,10 +10,16 @@ main[b-ymfpvu92ff] {
 }
 
 .sidebar[b-ymfpvu92ff] {
-    background-image: linear-gradient(180deg, rgb(0, 148, 255) 0%, #00127e 70%);
+    background-color: #633480;
 }
 
-
+.header[b-ymfpvu92ff] {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
 
     .top-row[b-ymfpvu92ff]  a, .top-row[b-ymfpvu92ff]  .btn-link {
         white-space: nowrap;
@@ -79,8 +85,8 @@ main[b-ymfpvu92ff] {
 }
 
 .top-row[b-iws0cm79hy] {
-    height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+
+    background-color: #633480;
 }
 
 .navbar-brand[b-iws0cm79hy] {

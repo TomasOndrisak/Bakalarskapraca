@@ -3,29 +3,24 @@
      @if (Rozvrh.ToList().Count() == 0) // ak sa v liste nenachadza ziadna polozka element povoli handleDrop ak nie tak nie
         {
         <ul class="dropzone @dropClass"
-        ondragover="event.preventDefault();"
-        ondragstart="event.dataTransfer.setData('', event.target.id);"
-         
+        ondragover="event.preventDefault();"        
         
-        
-         @ondrop="HandleDrop"
+        @ondrop="HandleDrop"
         @ondragenter="HandleDragEnter"
         @ondragleave="HandleDragLeave">
 
-      
         @foreach (var hodina in Rozvrh)
         {
                 <Hodina HodinaModel="hodina" />
-        }
-        
+        }    
 
     </ul>
            
-
-        } else{
+        } 
+        else 
+        {
     <ul class="dropzone @dropClass"
         ondragover="event.preventDefault();"
-        ondragstart="event.dataTransfer.setData('', event.target.id);"
          
         
         
@@ -41,7 +36,6 @@
            
         }
         
-
     </ul>}
 </div>
 
@@ -52,6 +46,7 @@
 
 
     List<HodinaModel> Rozvrh = new List<HodinaModel>();
+
     string dropClass = "";
 
     protected override void OnParametersSet()
@@ -69,7 +64,6 @@
         {
         dropClass = "no-drop";
 
-
         }
         else
         {
@@ -85,7 +79,7 @@
     private async Task HandleDrop()
     {
         dropClass = "";
-        await Container.UpdateJobAsync(ListStatus);
+        await Container.UpdateHodinaAsync(ListStatus);
     }
 }
 

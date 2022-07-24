@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace WASMrozvrh.Models
+﻿namespace WASMrozvrh.Models
 {
     public class HodinaModel
     {
         public int Id { get; set; }
         public HodinaStatuses Status { get; set; }
-        public string NazovHodiny { get; set; }
+        public string? NazovHodiny { get; set; }
     }
 
     public enum HodinaStatuses

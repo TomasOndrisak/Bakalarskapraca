@@ -25,39 +25,42 @@ html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
    
 }
+.header {
+    padding: 18px;
+    text-align: center;
+    background: #633480;
+    color: white;
+    font-size: 30px;
+  }
 
 /* hlavicka */
 .nazov {
     padding: 1px;
     width: 100%;
-    background: #62347e;
+    background: #633480;
     text-align: center;
 }
+    .nazov li {
+        color: white;
+        font-size: 18px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        list-style-type: none;
+    }
 
-        .nazov ul li {
-            color: white;
-            font-size: 16px;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            list-style-type: none;
-        }
+.VyucovacieHodiny {
 
-  
-
-.Hodiny {
-    
     background-color: #ddd;
-    
 }
-
-    .Hodiny li {
+    .VyucovacieHodiny li {
 
         display: inline-block;
         width: 16%;
-        color: #666;
-        text-align: center;
-        
+        color: rgb(0, 0, 0);
+        text-align: center;   
     }
+
+
 
     /* Rozlozenie */
 .Hodina-container {
@@ -71,12 +74,13 @@ html, body {
     padding-block: 30px;
     border: 4px solid #000000;
     cursor: grab;
-    background: #6e10a0;
+    background: #633480;
     text-align: center;
     color: white;
     width: 100%;
     height: 100%;
     border-radius: 25px;
+    font-size: 12px;
 }
 
 .dropzone {
