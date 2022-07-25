@@ -16,7 +16,3 @@ Its useful for study reasons and for better understanding how you can use C# ins
 
 - `dotnet run`
 - open your browser and load `http://localhost:7200/`
-
-`Credits`
-- https://chrissainty.com/investigating-drag-and-drop-with-blazor/
-
